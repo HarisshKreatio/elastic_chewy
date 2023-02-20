@@ -1,0 +1,5 @@
+{
+
+  ELASTIC_HOST: 'localhost:9201'
+
+}
